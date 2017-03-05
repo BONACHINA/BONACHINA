@@ -1,13 +1,13 @@
 <template>
   <div id="app">
     <div id="banner">
-      <img src="/src/assets/logo.png">
+      <img src="static/logo.png">
     </div>
     <div id="main">
       <div id="timeline">
         <timeline></timeline>
       </div>
-      <img src="/src/assets/bg.jpg">
+      <img src="static/bg.jpg">
     </div>
   </div>
 </template>
