@@ -1,0 +1,78 @@
+{
+  "sites": [
+    {
+      "name": "kaleidoscope_BN",
+      "acts": [
+        {
+          "activity_id": 17050501,
+          "type": "高清"
+        },
+        {
+          "activity_id": 17050501,
+          "type": "预览"
+        },
+        {
+          "activity_id": 17031201,
+          "type": "高清"
+        }
+      ]
+    },
+    {
+      "name": "SD_BONA",
+      "acts": [
+        {
+          "activity_id": 17050502,
+          "type": "高清"
+        },
+        {
+          "activity_id": 17030501,
+          "type": "高清"
+        }
+      ]
+    },
+    {
+      "name": "Todaymeet819",
+      "acts": [
+        {
+          "activity_id": 17050502,
+          "type": "高清"
+        }
+      ]
+    },
+    {
+      "name": "Flawless_L0819",
+      "acts": [
+        {
+          "activity_id": 17031201,
+          "type": "高清"
+        }
+      ]
+    },
+    {
+      "name": "Center_Bona",
+      "acts": [
+        {
+          "activity_id": 17031101,
+          "type": "高清"
+        }
+      ]
+    },
+    {
+      "name": "BONAPICS0819",
+      "acts": [
+        {
+          "activity_id": 17050501,
+          "type": "高清"
+        },
+        {
+          "activity_id": 17050501,
+          "type": "预览"
+        },
+        {
+          "activity_id": 17030401,
+          "type": "高清"
+        }
+      ]
+    }
+  ]
+}

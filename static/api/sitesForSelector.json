@@ -1,0 +1,136 @@
+{
+  "sitesForSelector": [
+    {
+      "value": "kaleidoscope_BN",
+      "label": "kaleidoscope_BN",
+      "children": [{
+        "value": "高清",
+        "label": "高清"
+      }, {
+        "value": "预览",
+        "label": "预览"
+      }]
+    },
+    {
+      "value": "BONAPICS0819",
+      "label": "BONAPICS0819",
+      "children": [{
+        "value": "高清",
+        "label": "高清"
+      }, {
+        "value": "预览",
+        "label": "预览"
+      }]
+    },
+    {
+      "value": "Rabbit_950819",
+      "label": "Rabbit_950819",
+      "children": [{
+        "value": "高清",
+        "label": "高清"
+      }, {
+        "value": "预览",
+        "label": "预览"
+      }]
+    },
+    {
+      "value": "redballoon_95",
+      "label": "redballoon_95",
+      "children": [{
+        "value": "高清",
+        "label": "高清"
+      }, {
+        "value": "预览",
+        "label": "预览"
+      }]
+    },
+    {
+      "value": "Flawless_L0819",
+      "label": "Flawless_L0819",
+      "children": [{
+        "value": "高清",
+        "label": "高清"
+      }, {
+        "value": "预览",
+        "label": "预览"
+      }]
+    },
+    {
+      "value": "Todaymeet819",
+      "label": "Todaymeet819",
+      "children": [{
+        "value": "高清",
+        "label": "高清"
+      }, {
+        "value": "预览",
+        "label": "预览"
+      }]
+    },
+    {
+      "value": "WJSN_shuttle",
+      "label": "WJSN_shuttle",
+      "children": [{
+        "value": "高清",
+        "label": "高清"
+      }, {
+        "value": "预览",
+        "label": "预览"
+      }]
+    },
+    {
+      "value": "19950819net",
+      "label": "19950819net",
+      "children": [{
+        "value": "高清",
+        "label": "高清"
+      }, {
+        "value": "预览",
+        "label": "预览"
+      }]
+    },
+    {
+      "value": "SD_BONA",
+      "label": "SD_BONA",
+      "children": [{
+        "value": "高清",
+        "label": "高清"
+      }, {
+        "value": "预览",
+        "label": "预览"
+      }]
+    },
+    {
+      "value": "Center_Bona",
+      "label": "Center_Bona",
+      "children": [{
+        "value": "高清",
+        "label": "高清"
+      }, {
+        "value": "预览",
+        "label": "预览"
+      }]
+    },
+    {
+      "value": "solareclipse819",
+      "label": "solareclipse819",
+      "children": [{
+        "value": "高清",
+        "label": "高清"
+      }, {
+        "value": "预览",
+        "label": "预览"
+      }]
+    },
+    {
+      "value": "其他",
+      "label": "其他",
+      "children": [{
+        "value": "高清",
+        "label": "高清"
+      }, {
+        "value": "预览",
+        "label": "预览"
+      }]
+    }
+  ]
+}
